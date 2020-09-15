@@ -35,7 +35,7 @@
                         </div>
                         <div class="col-sm-6 mt-3">
                             <div class="headline-title-2 px-3">
-                                Cerita dari Mas Rico
+                                <span style="color: #007a18">&#10070;</span> Cerita dari Mas Rico
                             </div>
                             <div style="padding:1rem">
                                 Mas Rico adalah pemilik franchise Dawet Kemayu di Jalan Kaliurang KM 14,5. Saat ini Mas Rico terdaftar sebagai seorang mahasiswa pasca sarjana di salah satu kampus di Yogyakarta. <br><br> Mas Rico termotivasi membuka bisnis agar tetap memiliki penghasilan selama berkuliah, apalagi sekarang Mas Rico sedang cuti kuliah karena pandemi. Kini penjualan dawet harian di outlet Mas Rico mencapai 50 cups/hari dengan keuntungan bersih mencapai 6 juta/bulan 
@@ -52,7 +52,7 @@
                         </div>
                         <div class="col-sm-6 mt-3">
                             <div class="headline-title-2 px-3">
-                                Cerita dari Mbak Tyas
+                                <span style="color: #007a18">&#10070;</span>  Cerita dari Mbak Tyas
                             </div>
                             <div style="padding:1rem">
                                 Sebagai Ibu Rumah Tangga, Mba Tyas mencari usaha yang bisa dikerjakan dari rumah dengan keuntungan yang lumayan dan waktunya fleksibel. Selain itu, Mba Tyas berharap memiliki bisnis yang bisa bertahan lama, bukan musiman, karenanya Mba Tyas memilih Dawet Kemayu. <br><br> Mba Tyas sendiri bisa menjual hingga 40 Family Pack/Hari dengan total keuntungan 24 Juta/Bulan. Mba Tyas baru saja membuka outlet di Barat Jembatan Kali Code, Jetis, Yogyakarta 
@@ -89,19 +89,19 @@
                     <div class="card-body py-4 px-4">
                         <ul class="benefit-list-2" style="padding-left:0.25rem">
                             <li>
-                                <div class="list-title my-2">Terpercaya</div>
+                                <div class="list-title my-2"><span style="color: #ffc400">&#10022;</span> Terpercaya</div>
                                 Merupakan produk dari perusahaan yang sudah berbisnis kuliner selama bertahun-tahun
                             </li>
                             <li>
-                                <div class="list-title my-2">Produk yang UNIK! </div>
+                                <div class="list-title my-2"><span style="color: #ffc400">&#10022;</span> Produk yang UNIK! </div>
                                 Dijamin kamu ga akan pernah nemu dawet kayak gini dimana pun di Indonesia!
                             </li>
                             <li>
-                                <div class="list-title my-2">Triple Revenue Stream!</div>
+                                <div class="list-title my-2"><span style="color: #ffc400">&#10022;</span> Triple Revenue Stream!</div>
                                 Kamu ga cuma bisa jualan Dawet Cup di Booth, tapi juga bisa jualan varian Family Pack dan Bottle Edition
                             </li>
                             <li>
-                                <div class="list-title my-2">Full Support</div>
+                                <div class="list-title my-2"><span style="color: #ffc400">&#10022;</span> Full Support</div>
                                 Dukungan penuh untuk konten marketing dan Ads<span style="color:red">*</span>
                             </li>
                         </ul>
