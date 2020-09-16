@@ -30,6 +30,12 @@
                       <div class="carousel-item">
                         <img src="/img/small.jpg" alt="" style="width: 100%;border-radius:2rem">
                       </div>
+                      <div class="carousel-item">
+                        <img src="/img/headline-image-square-2.jpg" alt="" style="width: 100%;border-radius:2rem">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="/img/headline-image-square-3.jpg" alt="" style="width: 100%;border-radius:2rem">
+                      </div>
                       <a class="carousel-control-prev" href="#headlineImages" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="sr-only">Previous</span>
@@ -126,7 +132,7 @@
     <div class="full-height d-flex justify-content-center align-items-center bg-light-green mb-3">
         <div class="container row justify-content-center align-items-center" style="width: 100%">
             <div class="col-md-6 py-3">
-                <img src="/img/tripple-bottle.png" alt="" style="width: 100%">
+                <img src="/img/botol-produk.jpg" alt="" style="width: 100%;border-radius:1rem">
             </div>
             <div class="col-md-6 px-3">
                 <div class="headline-title-2 my-3">
@@ -234,7 +240,19 @@
                 </div>
             </div>
             <div class="col-sm-12 col-lg-6 my-3">
-                <img src="/img/special-event.jpeg" alt="" style="width: 100%;border-radius:10px">
+                <div id="carouselCustomSticker" class="carousel slide sticker-carousel" data-ride="carousel">
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img class="d-block w-100" src="/img/custom-sticker-1.jpg" alt="First slide" style="border-radius: 1rem">
+                      </div>
+                      <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/custom-sticker-2.jpg" alt="Second slide">
+                      </div>
+                      <div class="carousel-item">
+                        <img class="d-block w-100" src="/img/custom-sticker-3.jpg" alt="Third slide">
+                      </div>
+                    </div>
+                  </div>
             </div>
         </div>
     </div>
@@ -324,3 +342,11 @@
     </div>
 
 @endsection
+
+@push('script')
+    <script>
+        $('#carouselCustomSticker').carousel({
+            interval: 1000
+        });
+    </script>
+@endpush

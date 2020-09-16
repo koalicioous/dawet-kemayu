@@ -210,7 +210,7 @@
                 <div class="card shadow dk-card" style="">
                     <img class="card-img-top" src="/img/paket-1.jpeg" alt="Card image cap">
                     <div class="card-body">
-                        <div class="headline-title-2 text-center">Rp 8.5 Juta</div>
+                        <div class="headline-title-2 text-center">Rp 7.9 Juta</div>
                       <ul class="franchise-benefit-list">
                           <li><span style="color:green">&#10004; </span> Paket Jualan Lengkap</li>
                           <li><span style="color:green">&#10004; </span>Support Materi Marketing</li>
