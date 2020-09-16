@@ -10,9 +10,9 @@
                 </div>
                 <p class="my-4 headline-title-2">Ikut jadi mitra, bisa langsung balik modal dalam satu bulan</p>
                 <div class="headline-actions">
-                    <a href="" class="btn btn-lg btn-block btn-dark-green shadow" style="font-size: 1rem" onclick="ga('send','event','contact','click','cta-header','1')">
+                    <button class="btn btn-lg btn-block btn-dark-green shadow" onclick="eventContact('wa.wizard.id/e23258','cta-header')">
                         DAFTAR JADI MITRA
-                    </a>
+                    </button>
                 </div>
             </div>
             <div class="col-sm-12 col-lg-6">
@@ -219,9 +219,9 @@
                           <li style="text-decoration: line-through">Budget Facebook dan Instagram Ads</li>
                           <li style="text-decoration: line-through">Free Pengiriman Bahan Baku dan Peralatan</li>
                       </ul>
-                      <a href="" class="btn btn-block btn-dark-green-2">
-                        Bergabung Jadi Juragan
-                    </a>
+                      <button class="btn btn-block btn-dark-green-2" onclick="eventContact('wa.wizard.id/1232c6','cta-juragan')">
+                          Bergabung Jadi Juragan
+                      </button>
                     </div>
                   </div>
             </div>
@@ -239,9 +239,9 @@
                           <li><span style="color:green">&#10004; </span>Budget Endorsement Foodies</li>
                           <li><span style="color:green">&#10004; </span>Free Pengiriman Bahan Baku dan Peralatan</li>
                       </ul>
-                      <a href="" class="btn btn-block btn-dark-green-2">
-                        Bergabung Jadi Bossman
-                    </a>
+                      <button class="btn btn-block btn-dark-green-2" onclick="eventContact('wa.wizard.id/d7f394','cta-bossman')">
+                          Bergabung Jadi Bossman
+                      </button>
                     </div>
                   </div>
             </div>
@@ -259,9 +259,9 @@
                             <li><span style="color:green">&#10004; </span>Budget Endorsement Foodies</li>
                             <li><span style="color:green">&#10004; </span>Free Pengiriman Bahan Baku dan Peralatan</li>
                         </ul>
-                        <a href="" class="btn btn-block btn-dark-green-2">
-                            Bergabung Jadi Sultan
-                        </a>
+                        <button class="btn btn-block btn-dark-green-2" onclick="eventContact('wa.wizard.id/33b317','cta-sultan')">
+                            Bergabung jadi Sultan
+                        </button>
                     </div>
                   </div>
             </div>
@@ -274,9 +274,9 @@
                 <div class="headline-title-1 my-3">
                     Informasi lebih lanjut kemitraan,
                 </div>
-                <a href="https://wa.link/87ivtw" target="_blank" class="btn btn-dark-green btn-block" style="font-size: 1.5rem">
+                <button class="btn btn-dark-green btn-block" onclick="eventContact('wa.wizard.id/e23258','cta-footer')">
                     Klik Di Sini
-                </a>
+                </button>
             </div>
         </div>
     </div>
@@ -291,10 +291,10 @@
                 </p>
                 <ul class="footer-menu-list">
                     <li>
-                        <a href="">Instagram</a>
+                        <a href="http://instagram.com/dawetkemayu/">Instagram</a>
                     </li>
                     <li>
-                        <a href="">Facebook</a>
+                        <a href="https://www.facebook.com/dawetkemayu/">Facebook</a>
                     </li>
                 </ul>
             </div>
@@ -317,3 +317,12 @@
         </div>
     </div>
 @endsection
+
+@push('script')
+    <script>
+        function eventContact(waLink,label){
+            window.open('https://' + waLink)
+            ga('send','event','contact','click',label)
+        }
+    </script>
+@endpush
