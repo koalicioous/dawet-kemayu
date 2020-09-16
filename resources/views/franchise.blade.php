@@ -215,9 +215,7 @@
                           <li><span style="color:green">&#10004; </span> Paket Jualan Lengkap</li>
                           <li><span style="color:green">&#10004; </span>Support Materi Marketing</li>
                           <li><span style="color:green">&#10004; </span>Subsidi Pengiriman</li>
-                          <li><span style="color:green">&#10004; </span>Budget Endorsement Foodies</li>
-                          <li style="text-decoration: line-through">Budget Facebook dan Instagram Ads</li>
-                          <li style="text-decoration: line-through">Free Pengiriman Bahan Baku dan Peralatan</li>
+                          <li><span style="color:green">&#10004; </span>Subsidi Pengiriman Bahan Baku dan Peralatan sebesar Rp 500.000</li>
                       </ul>
                       <button class="btn btn-block btn-dark-green-2" onclick="eventContact('wa.wizard.id/1232c6','cta-juragan')">
                           Bergabung Jadi Juragan
@@ -231,12 +229,10 @@
                     <img class="card-img-top" src="/img/paket-2.jpeg" alt="Card image cap">
                     <div class="card-body">
                       <ul class="franchise-benefit-list">
-                        <div class="headline-title-2 text-center">Rp 14.9 Juta</div>
+                        <div class="headline-title-2 text-center">Rp 11.9 Juta</div>
                           <li><span style="color:green">&#10004; </span>Paket Jualang Lengkap</li>
                           <li><span style="color:green">&#10004; </span>Booth Semi Premium</li>
                           <li><span style="color:green">&#10004; </span>Support Materi Marketing</li>
-                          <li><span style="color:green">&#10004; </span>Budget Facebook dan Instagram Ads</li>
-                          <li><span style="color:green">&#10004; </span>Budget Endorsement Foodies</li>
                           <li><span style="color:green">&#10004; </span>Free Pengiriman Bahan Baku dan Peralatan</li>
                       </ul>
                       <button class="btn btn-block btn-dark-green-2" onclick="eventContact('wa.wizard.id/d7f394','cta-bossman')">
@@ -251,12 +247,11 @@
                     <img class="card-img-top" src="/img/paket-3.jpeg" alt="Card image cap">
                     <div class="card-body">
                         <ul class="franchise-benefit-list">
-                            <div class="headline-title-2 text-center">Rp 16.9 Juta</div>
+                            <div class="headline-title-2 text-center">Rp 14.9 Juta</div>
                             <li><span style="color:green">&#10004; </span>Paket Jualang Lengkap</li>
                             <li><span style="color:green">&#10004; </span>Booth Premium</li>
                             <li><span style="color:green">&#10004; </span>Support Materi Marketing</li>
-                            <li><span style="color:green">&#10004; </span>Budget Facebook dan Instagram Ads</li>
-                            <li><span style="color:green">&#10004; </span>Budget Endorsement Foodies</li>
+                            <li><span style="color:green">&#10004; </span>Budget Endorsement Foodies sebesar Rp800.000</li>
                             <li><span style="color:green">&#10004; </span>Free Pengiriman Bahan Baku dan Peralatan</li>
                         </ul>
                         <button class="btn btn-block btn-dark-green-2" onclick="eventContact('wa.wizard.id/33b317','cta-sultan')">
