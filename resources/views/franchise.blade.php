@@ -10,7 +10,7 @@
                 </div>
                 <p class="my-4 headline-title-2">Ikut jadi mitra, bisa langsung balik modal dalam satu bulan</p>
                 <div class="headline-actions">
-                    <a href="" class="btn btn-lg btn-block btn-dark-green shadow" style="font-size: 1rem">
+                    <a href="" class="btn btn-lg btn-block btn-dark-green shadow" style="font-size: 1rem" onclick="ga('send','event','contact','click','cta-header','1')">
                         DAFTAR JADI MITRA
                     </a>
                 </div>
