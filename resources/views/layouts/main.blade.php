@@ -47,6 +47,7 @@
             gtag('js', new Date());
 
             gtag('config', 'UA-176285628-2');
+            gtag('config', 'UA-176285628-3');
         </script>
     <!-- End of Google Analytics -->
     <!-- Google Tag Manager -->

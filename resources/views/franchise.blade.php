@@ -123,7 +123,7 @@
             <div class="col-sm-12 row justify-content-center align-items-center text-center">
                 <div class="col-sm-4 my-3">
                     <div class="headline-title-1">40</div>
-                    <div class="headline-subtitle-1 px-5 py-4">Gerobak terjual dalam 5 bulan sejak launching (di masa pandemi)</div>
+                    <div class="headline-subtitle-1 px-5 py-4">Franchise terjual dalam 5 bulan sejak launching (di masa pandemi)</div>
                 </div>
                 <div class="col-sm-4 my-3">
                     <div class="headline-title-1">7</div>
