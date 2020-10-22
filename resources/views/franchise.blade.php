@@ -122,11 +122,11 @@
             </div>
             <div class="col-sm-12 row justify-content-center align-items-center text-center">
                 <div class="col-sm-4 my-3">
-                    <div class="headline-title-1">40</div>
+                    <div class="headline-title-1">60</div>
                     <div class="headline-subtitle-1 px-5 py-4">Franchise terjual dalam 5 bulan sejak launching (di masa pandemi)</div>
                 </div>
                 <div class="col-sm-4 my-3">
-                    <div class="headline-title-1">7</div>
+                    <div class="headline-title-1">12</div>
                     <div class="headline-subtitle-1 px-5 py-4">Outlet sudah tersebar di 7 Kota</div>
                 </div>
                 <div class="col-sm-4 my-3">
@@ -262,15 +262,72 @@
             </div>
         </div>
     </div>
+    {{-- TESTIMONI PELANGGAN --}}
+    <div class="d-flex justify-content-center align-items-center">
+        <div class="container row justify-content-center align-items-center">
+            <div class="col-sm-12 col-lg-12 text-center my-3">
+                <div class="headline-title-2">Kata Mereka Soal Dawet Kemayu</div>
+            </div>
+            <div class="col-sm-12 col-lg-12 d-flex justify-content-center">
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 300px">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block w-100" src="/img/testi-mitra-1.jpeg" alt="First slide" style="width: 100px">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/img/testi-mitra-2.jpeg" alt="Second slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/img/testi-mitra-3.jpeg" alt="Third slide">
+                        </div>
+                        <div class="carousel-item">
+                            <img class="d-block w-100" src="/img/testi-mitra-4.jpeg" alt="Third slide">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </div>
+            </div>
+        </div>
+    </div>
     {{-- LAST CALL TO ACTION --}}
-    <div class="d-flex justify-content-center align-items-center py-5">
+    <div class="d-flex justify-content-center align-items-center pt-5">
         <div class="container row justify-content-center align-items-center">
             <div class="col-md-12 text-center">
                 <div class="headline-title-1 my-3">
-                    Informasi lebih lanjut kemitraan,
+                    Informasi lebih lanjut kemitraan, hubungi saja
                 </div>
-                <button class="btn btn-dark-green btn-block" onclick="eventContact('wa.wizard.id/e23258','cta-footer')">
-                    Klik Di Sini
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center align-items-center text-center mb-5">
+        <div class="container row justify-content-center align-items-center">
+            <div class="col-md-6">
+                <div class="headline-title-2 my-3">
+                    Mas Alim
+                </div>
+                <div class="headline-title-2 my-3">
+                    +62 813-2573-5869
+                </div>
+                <button class="btn btn-dark-green px-5" onclick="eventContact('wa.link/g67p60','cta-footer')">
+                    Kirim Pesan WhatsApp
+                </button>
+            </div>
+            <div class="col-md-6">
+                <div class="headline-title-2 my-3">
+                    Mas Furqon
+                </div>
+                <div class="headline-title-2 my-3">
+                    +62 811-1908-119
+                </div>
+                <button class="btn btn-dark-green px-5" onclick="eventContact('wa.wizard.id/e23258','cta-footer')">
+                    Kirim Pesan WhatsApp
                 </button>
             </div>
         </div>
