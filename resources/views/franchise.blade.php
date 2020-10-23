@@ -200,6 +200,14 @@
     </div>
     <div class="row justify-content-center align-items-center mx-0 bg-light-green py-4" style="width: 100%;margin-top:4rem">
         <div class="container d-flex flex-wrap justify-content-center align-items-center">
+            <div class="col-md-12 my-4 text-center">
+                <div class="headline-title-1">
+                    Mau baca proposal kemitraan Dawet Kemayu? Bisa!
+                </div>
+                <button class="btn btn-dark-green mx-5 mt-3" onclick="eventContact('bit.ly/requestproposalDK','cta-proposal')">
+                    Klik di sini untuk dapat proposal
+                </button>
+            </div>
             <div class="col-sm-12 text-center my-4">
                 <div class="headline-title-1">
                     Banyak Pilihan untuk Mulai Jadi Mitra
